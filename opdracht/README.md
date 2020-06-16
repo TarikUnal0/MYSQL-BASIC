@@ -39,7 +39,7 @@ Delete | taak02 | Primary Keys
 
 ## Opdracht
 
-1. Maak een nieuwe database aan genaamd `mod-mysql-basic-opdracht` en importeer de database export file `videogamesales.sql` in de `db-export` map.
+1. Maak een nieuwe database aan genaamd ` ` en importeer de database export file `videogamesales.sql` in de `db-export` map.
 2. Open het SQL tabblad in PhpMyAdmin en schrijf SQL queries om de gevraagde gegevens te tonen:  
    **(vergeet niet na elke beantwoorde vraag de SQL statement die je geschreven hebt te copy/pasten in `antwoorden.sql` en een bookmark met een logisch genaamd label aan te maken)**
 
